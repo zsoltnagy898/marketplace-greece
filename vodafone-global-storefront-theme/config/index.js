@@ -3,8 +3,8 @@
 const config = {
 	env: "dev",
 	theme: "vodafone",
-	marketplacePath: "https://testvfgroup.appdirect.com",
-	pageObjectsPath: "https://testvfgroup.appdirect.com/api/internal/storefront/v1",
+	marketplacePath: "https://testvfgreece.appdirect.com",
+	pageObjectsPath: "https://testvfgreece.appdirect.com/api/internal/storefront/v1",
 	publicCSSGenPath: "/assets/css/pages",
 	publicJSPath: "/assets/css/images",
 	publicImagesPath: "/assets/js",

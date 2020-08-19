@@ -1,17 +1,17 @@
 {
-  "https://testvfgroup.appdirect.com": [
+  "https://testvfspain.appdirect.com": [
     {
       "name": "recommendedSolutions",
       "type": "list",
-      "categories": "42349"
+      "categories": "42153"
     },
     {
       "name": "carousel",
       "type": "list",
-      "categories": "42346"
+      "subcategories": "26738"
     },
     {
-      "name": "popularapps",
+      "name": "popularApps",
       "type": "list",
       "categories": "42152"
     },
@@ -21,7 +21,7 @@
       "categories": "42161"
     }
   ],
-  "https://marketplace.vodafone.de": [
+  "https://marketplace-empresas.vodafone.es": [
     {
       "name": "recommendedSolutions",
       "type": "list",
@@ -30,7 +30,7 @@
     {
       "name": "carousel",
       "type": "list",
-      "subcategories": "1717"
+      "subcategories": "2449"
     },
     {
       "name": "popularApps",
