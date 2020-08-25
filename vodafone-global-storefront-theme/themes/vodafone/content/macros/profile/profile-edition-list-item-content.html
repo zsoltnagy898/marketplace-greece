@@ -1,6 +1,9 @@
 {% from "/macros/profile/profile-edition-details.html" import profileEditionDetails %}
 {% from "/macros/profile/profile-edition-cost.html" import profileEditionCost %}
 {% from "/macros/profile/show-more-edition-item.html" import showMoreEditionItem %}
+{% from "/macros/profile/profile-action-button.html" import productActionButton %}
+{% from "/macros/profile/profile-upgrade.html" import UpgradeModal %}
+
 
 {% macro profileEditionListItemContent(edition, editions, id, loop, startIndex = 0) %}
 <div class="profile-edition{% if edition.primary %} profile-edition--primary{% endif %} profile-edition-content-container w-100 {{id}} p-3">
@@ -44,7 +47,11 @@
             <a href="{{edition.callToAction.url}}"
                role="button"
                class="button button--primary button--full-width">
+                {% if edition.callToAction.actionType == 'LEAD_GEN' %}
+                    Call me Back
+                {% else %}
                 {{edition.callToAction.label}}
+                {% endif %}
             </a>
         </div>
         {% endif %}
