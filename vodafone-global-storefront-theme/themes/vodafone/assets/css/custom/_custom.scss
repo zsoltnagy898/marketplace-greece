@@ -9070,9 +9070,21 @@ p {
   }
 }
 
+#Policies {
+  padding: 150px 0;
+}
+
 .disabled {
   background: #ccc;
   box-shadow: none;
   border: none;
   cursor: not-allowed;
+}
+
+.ad-universalnav .footer__links{
+  font-family: "VodafoneLight", Arial, sans-serif !important;
+}
+
+.heading--4 {
+  font-size: 24px;
 }

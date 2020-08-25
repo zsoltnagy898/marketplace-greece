@@ -1,14 +1,14 @@
 {
-  "https://testvfspain.appdirect.com": [
+  "https://testvfgreece.appdirect.com": [
     {
       "name": "recommendedSolutions",
       "type": "list",
-      "categories": "42153"
+      "categories": "42360"
     },
     {
       "name": "carousel",
       "type": "list",
-      "subcategories": "26738"
+      "categories": "42357"
     },
     {
       "name": "popularApps",
@@ -25,7 +25,7 @@
     {
       "name": "recommendedSolutions",
       "type": "list",
-      "categories": "1647"
+      "categories": "1747"
     },
     {
       "name": "carousel",

@@ -39,5 +39,5 @@ help_menu: 'Please call 1399 from your Vodafone Greece mobile / fixed line, or 8
 help_menu_title: 'Need help?'
 searchBar:
   placeholder: 'Find Applications'
-register_link: 'https://cloud-marketplace.vodafone.de/vap/#/saas-register'
+register_link: 'https://www.vodafone.gr/marketplace-registration/?lang=en'
 register_text: 'Register'
