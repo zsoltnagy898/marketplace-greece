@@ -12,6 +12,7 @@
 {% from "/pages/profile/components/reviews.html" import reviews %}
 {% from "/pages/profile/components/policies-support.html" import support %}
 {% from "/pages/profile/components/addons.html" import addons %}
+{% from "/macros/profile/profile-lead-form.html" import LeadModal %}
 
 
 {% block content %}
@@ -49,6 +50,7 @@
         </section>
     </div>
 </div>
+{{ LeadModal(application.leads) }}
 {% if application.features.items.length > 0 %}
 <section id="Features" class="section section--light-grey">
     {% for navItem in application.navigation.items %}

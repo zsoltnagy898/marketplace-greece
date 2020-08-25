@@ -20,20 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a00dcde-b76a-4f21-958b-d0ba46a44ea7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/assets/js/profile-leads.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/macros/profile/addon-products.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/macros/profile/profile-addon-cost.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/macros/profile/profile-addon-list-item-content.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/macros/profile/profile-addon-list-item-header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/macros/profile/profile-lead-form.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/macros/profile/profile-edition-cost.html" beforeDir="false" afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/macros/profile/profile-edition-cost.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/macros/profile/profile-edition-list-item-content.html" beforeDir="false" afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/macros/profile/profile-edition-list-item-content.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/macros/profile/profile-edition-list-item-header.html" beforeDir="false" afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/macros/profile/profile-edition-list-item-header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/macros/sliders/carousel.html" beforeDir="false" afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/macros/sliders/carousel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/macros/sliders/hero-carousel-item.html" beforeDir="false" afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/macros/sliders/hero-carousel-item.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/macros/sliders/profile-carousel-item.html" beforeDir="false" afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/macros/sliders/profile-carousel-item.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/pages/profile/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/pages/profile/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/header-footer/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/header-footer/footer.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597847816844</updated>
       <workItem from="1597847818135" duration="1091000" />
-      <workItem from="1598336696291" duration="8098000" />
+      <workItem from="1598336696291" duration="11607000" />
     </task>
     <servers />
   </component>
