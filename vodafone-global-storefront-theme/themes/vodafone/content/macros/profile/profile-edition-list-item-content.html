@@ -41,13 +41,26 @@
         </div>
         {% if edition and edition.callToAction %}
         <div class="profile-edition__action w-100">
-            <a {% if edition.callToAction.enabled and edition.callToAction.url %}href="{{ edition.callToAction.url }}"{% endif %}
+            {% if edition.callToAction.actionType == "LEAD_GEN" %}
+            <a
+                data-toggle="modal"
+                data-target="#leadModal"
                role="button"
                class="button button--primary button--full-width
-                {{ 'js-profile-lead-form' if edition.callToAction.actionType == "LEAD_GEN" }}
+               }
+            ">
+                Call me Back
+            </a>
+            {% else %}
+                <a {% if edition.callToAction.enabled and edition.callToAction.url %}href="{{ edition.callToAction.url }}"{% endif %}
+                   role="button"
+                   class="button button--primary button--full-width
+                    {{ 'js-profile-lead-form' if edition.callToAction.actionType == "LEAD_GEN" }}
                 ">
                 {{edition.callToAction.label}}
-            </a>
+                </a>
+            {% endif %}
+
         </div>
         {% endif %}
     </div>
