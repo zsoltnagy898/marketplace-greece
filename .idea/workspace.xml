@@ -22,8 +22,6 @@
     <list default="true" id="1a00dcde-b76a-4f21-958b-d0ba46a44ea7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/assets/css/custom/_custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/assets/css/custom/_custom.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/layout/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/layout/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/macros/profile/profile-edition-list-item-content.html" beforeDir="false" afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/macros/profile/profile-edition-list-item-content.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/pages/profile/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/pages/profile/profile.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
