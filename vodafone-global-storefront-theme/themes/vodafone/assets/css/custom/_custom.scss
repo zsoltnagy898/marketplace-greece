@@ -9069,3 +9069,10 @@ p {
     color: white;
   }
 }
+
+.disabled {
+  background: #ccc;
+  box-shadow: none;
+  border: none;
+  cursor: not-allowed;
+}
