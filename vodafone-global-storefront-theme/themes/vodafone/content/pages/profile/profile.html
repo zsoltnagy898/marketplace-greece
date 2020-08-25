@@ -3,7 +3,7 @@
 
 {% from "/macros/analytics.html" import utagDataScript %}
 {% from "/macros/breadcrumb/breadcrumb.html" import breadcrumb %}
-
+{% from "/macros/profile/profile-lead-form.html" import LeadModal %}
 
 {% block contentSection %}
 
@@ -60,6 +60,7 @@
     {% endfor %}
 </section>
 {% endif %}
+{{ LeadModal(application.leads) }}
 {% if application.editions.items.length > 0 %}
 <section id="Editions" class="section section--white">
     {{editionsPricing(application.editions)}}
@@ -74,6 +75,27 @@
 {% endblock %}
 
 {% endblock %}
+
+
+<script>
+    $(".js-profile-lead")
+        .profileLeads({
+            endpoint: {{ application.leads.form.actionEndpoint | dump | safe }},
+    otherData: {{ application.leads.form.otherData | dump | safe }},
+    customFields: {{ application.leads.form.schema.custom | dump | safe }},
+    i18n: {{ application.leads.i18n | dump | safe }}
+    }
+    );
+
+    $(".js-profile-upgrade-popup").on("click", function(e) {
+        e.preventDefault();
+        $("body > .profile-upgrade-modal").remove();
+        // upgrade popup is tied to it's button
+        $(this).closest(".profile-actions").find(".profile-upgrade-modal").clone().modal({
+            fadeDuration: 100
+        });
+    })
+</script>
 
 {% block analytics_data %}
 {{ utagDataScript({
