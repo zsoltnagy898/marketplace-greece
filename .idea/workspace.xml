@@ -21,15 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1a00dcde-b76a-4f21-958b-d0ba46a44ea7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/assets/css/custom/_custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/assets/css/custom/_custom.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/pages/profile/components/simple-tabs.html" beforeDir="false" afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/pages/profile/components/simple-tabs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/env-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/env-data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/header-footer/logged-in.html" beforeDir="false" afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/header-footer/logged-in.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/header-footer/logged-out.html" beforeDir="false" afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/header-footer/logged-out.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/translations/el-GR.yml" beforeDir="false" afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/translations/el-GR.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/translations/en-GB.yml" beforeDir="false" afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/translations/en-GB.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/translations/en-US.yml" beforeDir="false" afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/translations/en-US.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/translations/en.yml" beforeDir="false" afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/translations/en.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/macros/profile/profile-edition-list-item-content.html" beforeDir="false" afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/macros/profile/profile-edition-list-item-content.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
