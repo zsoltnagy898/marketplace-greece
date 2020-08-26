@@ -43,28 +43,16 @@
             {{showMoreEditionItem(editions)}}
         </div>
         {% if edition and edition.callToAction %}
-        {% if edition.callToAction.actionType == "LEAD_GEN" %}
-        <div class="profile-edition__action w-100 hide">
-            {% if edition.callToAction.actionType == "LEAD_GEN" %}
-            <a
-                data-toggle="modal"
-                data-target="#leadModal"
+
+        {% if application.callToActions.items[0].actionType != "LEAD_GEN" %}
+        <div class="profile-edition__action w-100">
+            <a {% if edition.callToAction.enabled and edition.callToAction.url %}href="{{ edition.callToAction.url }}"{% endif %}
                role="button"
                class="button button--primary button--full-width
-               }
-            ">
-                Call me Back
-            </a>
-            {% else %}
-                <a {% if edition.callToAction.enabled and edition.callToAction.url %}href="{{ edition.callToAction.url }}"{% endif %}
-                   role="button"
-                   class="button button--primary button--full-width
                     {{ 'js-profile-lead-form' if edition.callToAction.actionType == "LEAD_GEN" }}
-                ">
-                {{edition.callToAction.label}}
-                </a>
-            {% endif %}
-
+            ">
+            {{edition.callToAction.label}}
+            </a>
         </div>
         {% endif %}
         {% endif %}

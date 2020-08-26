@@ -22,10 +22,8 @@
     <list default="true" id="1a00dcde-b76a-4f21-958b-d0ba46a44ea7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/assets/css/custom/_custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/assets/css/custom/_custom.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/layout/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/layout/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/macros/profile/profile-edition-list-item-content.html" beforeDir="false" afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/macros/profile/profile-edition-list-item-content.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/pages/profile/components/overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/pages/profile/components/overview.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/pages/profile/components/product-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/pages/profile/components/product-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/header-footer/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/header-footer/footer.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +51,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/macros/profile" />
+      <recent name="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/pages/profile/components" />
       <recent name="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/assets/js" />
       <recent name="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/macros/sliders" />
       <recent name="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/macros" />
@@ -87,11 +86,15 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1612" y="-1037" width="855" height="735" key="find.popup" timestamp="1598429114683">
+    <state x="859" y="-1317" width="2360" height="1178" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1598451363561">
+      <screen x="759" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="859" y="-1317" width="2360" height="1178" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/-1801.-1417.2560.1417/759.-1417.2560.1417/0.23.1792.1058@759.-1417.2560.1417" timestamp="1598451363561" />
+    <state x="1612" y="-1037" width="855" height="735" key="find.popup" timestamp="1598450055668">
       <screen x="759" y="-1417" width="2560" height="1417" />
     </state>
     <state x="597" y="307" width="598" height="490" key="find.popup/-1801.-1417.2560.1417/759.-1417.2560.1417/0.23.1792.1058@0.23.1792.1058" timestamp="1598351617513" />
-    <state x="1612" y="-1037" width="855" height="735" key="find.popup/-1801.-1417.2560.1417/759.-1417.2560.1417/0.23.1792.1058@759.-1417.2560.1417" timestamp="1598429114683" />
+    <state x="1612" y="-1037" width="855" height="735" key="find.popup/-1801.-1417.2560.1417/759.-1417.2560.1417/0.23.1792.1058@759.-1417.2560.1417" timestamp="1598450055668" />
     <state x="1704" y="-1102" width="670" height="676" key="search.everywhere.popup" timestamp="1598399048689">
       <screen x="759" y="-1417" width="2560" height="1417" />
     </state>
