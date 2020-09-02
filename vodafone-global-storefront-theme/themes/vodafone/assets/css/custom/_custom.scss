@@ -9012,14 +9012,15 @@ p {
   width: 60%;
   @include media-breakpoint-down(md) {
     width: 100%;
+    margin-left: 15px;
   }
 }
 
 #socialcol {
-  width: 39%;
   @include media-breakpoint-down(md) {
     width: 100%;
     margin-top: 15px;
+    margin-left: 15px;
   }
 }
 
@@ -9095,10 +9096,6 @@ p {
 
 #logocol {
   width: 60%;
-}
-
-#socialcol {
-  width: 39%;
 }
 
 .edition-title-main {
