@@ -21,16 +21,16 @@
       "categories": "42161"
     }
   ],
-  "https://marketplace-empresas.vodafone.es": [
+  "https://marketplace.vodafone.gr": [
     {
       "name": "recommendedSolutions",
       "type": "list",
-      "categories": "1747"
+      "categories": "1750"
     },
     {
       "name": "carousel",
       "type": "list",
-      "subcategories": "2449"
+      "subcategories": "1747"
     },
     {
       "name": "popularApps",
