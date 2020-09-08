@@ -156,14 +156,10 @@
 
 #socialcol {
   .facebook{
-    a {
-      width: 40px;
-    }
+    width: 40px;
     margin-top: 5px;
     @include media-breakpoint-down(md) {
-      a {
-        width: 30px;
-      }
+      width: 30px;
       margin-top: 2px;
     }
   }
@@ -174,5 +170,11 @@
     }
     padding: 0 !important;
     margin: 0 !important;
+  }
+  .social_icon {
+    width: 50px;
+    @include media-breakpoint-down(md) {
+      width: 35px;
+    }
   }
 }
