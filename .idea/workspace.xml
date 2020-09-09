@@ -21,9 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1a00dcde-b76a-4f21-958b-d0ba46a44ea7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/assets/css/custom/_custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/assets/css/custom/_custom.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/layout/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/layout/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/macros/profile/profile-edition-list-item-content.html" beforeDir="false" afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/content/macros/profile/profile-edition-list-item-content.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/header-footer/logged-out.html" beforeDir="false" afterPath="$PROJECT_DIR$/vodafone-global-storefront-theme/themes/vodafone/header-footer/logged-out.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +65,8 @@
       <updated>1597847816844</updated>
       <workItem from="1597847818135" duration="1091000" />
       <workItem from="1598336696291" duration="20329000" />
+      <workItem from="1599458573006" duration="1692000" />
+      <workItem from="1599643580645" duration="533000" />
     </task>
     <servers />
   </component>
