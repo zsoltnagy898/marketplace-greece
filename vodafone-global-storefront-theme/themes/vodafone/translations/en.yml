@@ -36,7 +36,7 @@ help_menu: 'Please call 1399 from your Vodafone Greece mobile / fixed line, or 8
             <br><br>
             If you are outside Greece, please call +30 694 4401399. (The call is charged as an outgoing call to mobile in Greece according to your network operator pricelist)<br><br>
             '
-help_menu_title: 'Need help?'
+help_menu_title: 'Help'
 searchBar:
   placeholder: 'Find Applications'
 register_link: 'https://www.vodafone.gr/marketplace-registration/?lang=en'
